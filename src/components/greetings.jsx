@@ -10,3 +10,4 @@ export const Greeting = ({ name }) => {
         </div>
     )
 }
+//I changed World to {name} so that it uses the names from greetings//
